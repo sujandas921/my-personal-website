@@ -1,0 +1,60 @@
+body{font-family: 'Righteous', cursive; margin: 0px; }
+    
+.top-baner{ background-image: url(img/header-bg.png);
+background-repeat: no-repeat; background-size: cover; background-position: relative; height: 700px; }
+
+
+.half-width{   width:30% ; margin: 10px; padding: 8%; float: left;}
+
+.half-width img{ width: 100%; padding-top: 0px;}
+
+
+
+.button{  background-image:  linear-gradient(45deg,lightsalmon,tomato);
+padding: 10px 20px; border-radius: 10px;
+color: white; font-weight: 550; text-decoration: none; 
+}
+  
+.me{ font-size:50px ; color: indianred;}
+
+.drem{ background-image: url( img/biography-bg.png);
+    background-repeat: no-repeat; background-size: cover; background-position: relative; height: 700px; }
+    
+    .footer{ background-image: url(img/latest-work-bg.png) ; 
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover; height:550px;
+
+    
+    
+    }
+
+    .work{ text-align: center; font-size: 30px; }
+.exparience img{width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    margin-top: 4%;}
+
+    .claint{ text-align: center; padding-top: 100px; size: 40px;}
+    .claient-name{ text-align: center; padding-top: 50px;}
+
+
+    .claient-header{ background-image: url(img/footer-bg.png) ; 
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover; height:550px;}
+
+       .phara { text-align:center; width: 40%;
+    padding-left: 30%; padding-top: 30px;
+    
+    }
+     .email{ background-image: linear-gradient(45deg,lightsalmon,tomato);
+         text-align: center;
+         color: white;
+         margin: 300px; margin-top: 70px;
+           padding: 15px;
+           border-radius: 10px;
+        }
+
+        .footer{ text-align: center; margin-bottom: 20px;}
